@@ -18,7 +18,7 @@ A simple and interactive web app that allows users to generate beautiful CSS gra
 
 ## 📸 Screenshot
 
-![Gradient Generator Screenshot](![image](https://github.com/user-attachments/assets/0d412807-3414-4171-bca5-2d4dded698f7)
+![Gradient Generator Screenshot](https://github.com/user-attachments/assets/0d412807-3414-4171-bca5-2d4dded698f7)
 )  
 *(Replace with actual screenshot of your project)*
 

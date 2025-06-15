@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    height: 100vh;
+    background-image: linear-gradient(to right, #051937, #008793);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+section div:first-child {
+    margin-bottom: 20px;
+}
+
+button {
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    margin: 0 10px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+#myButton {
+    background-color: #051937;
+}
+
+#myButton2 {
+    background-color: #008793;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+h2 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.copyCode {
+    background-color: #f0f0f0;
+    padding: 12px 20px;
+    font-family: monospace;
+    font-size: 16px;
+    border-radius: 8px;
+    color: #222;
+    border: 1px solid #ccc;
+    word-break: break-word;
+}
